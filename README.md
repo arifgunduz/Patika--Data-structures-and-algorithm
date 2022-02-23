@@ -1,6 +1,6 @@
 # Patika--Data-structures-and-algorithm
 
-## Proje-1
+# Proje-1
 
 Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
@@ -14,26 +14,26 @@ Proje 1
 Soru-2  [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 
-# Cevap 1
+## Cevap 1
 
  1.Adım [22,27,16,2,18,6] <br>
  2.Adım [2 |27,16,22,18,6] <br>
  3.Adım [2,6 | 16,22,18,27] <br>
  4.Adım [2,6,16 |22,18,27] <br>
  5.Adım [2,6,16,18,22,17] <br>
-# Cevap-2
+## Cevap-2
 
 O(n^2)
-# Cevap-3
+## Cevap-3
 
 2-Best Case <br>
 18-Avarage Case <br>
 27-Worst Case <br>
 
-# Cevap-4
+## Cevap-4
 18 Ortaya yakın bir yerde olduğu için Average Case'dir
 
-## Soru-2 Cevap
+# Soru-2 Cevap
   1.Adım [2| 3,5,8,7,4,15,6] <br>
  2.Adım [2,3 |5,8,7,4,15,6] <br>
  3.Adım [2,3,4 |8,7,5,15,6] <br>
