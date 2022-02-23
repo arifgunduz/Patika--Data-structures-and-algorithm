@@ -21,3 +21,14 @@ Proje 1
  3.Adım [2,6 | 16,22,18,27] <br>
  4.Adım [2,6,16 |22,18,27] <br>
  5.Adım [2,6,16,18,22,17] <br>
+# Cevap-2
+
+O(n^2)
+# Cevap-3
+
+2-Best Case
+18-Avarage Case
+27-Worst Case
+
+# Cevap-4
+18 Ortaya yakın bir yerde olduğu için Average Case'dir
