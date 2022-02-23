@@ -1,6 +1,6 @@
 # Patika--Data-structures-and-algorithm
 
-#Insertion Sort
+# Insertion Sort
 
 
 # Proje-1
